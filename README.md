@@ -25,9 +25,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 # Content
 
-- [Awesome-Multimodal-LLM-for-Code](#awesome-mllm-code)
-  * [Content](#content)
-  * [📜 Papers](#📜Papers)
+- [Awesome-Multimodal-LLM-for-Code](#Awesome-Multimodal-LLM-for-Code)
+  * [Content](#Content)
+  * [📜 Papers](#📜-Papers)
       - [1. Web/UI Code Generation](#1-Web/UI-Code-Generation)
       - [2. Scientific Plots Code Generation](#2-Scientific-Plots-Code-Generation)
       - [3. Visually Rich Programming](#3-Visually-Rich-Programming)
@@ -35,7 +35,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [5. Slide Code Generation](#5-Slide-Code-Generation)
       - [6. Program Repair](#6-Program-Repair)
       - [7. General](#7-General)
-  * [🔥Contributing](#🔥Contributing)
+  * [🔥Contributing](#🔥-Contributing)
 
 ---
 
