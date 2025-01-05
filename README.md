@@ -23,6 +23,31 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 [comment]: <> (multimodal code generation such as UI code generation, scientific plots code generation and so on.)
 
+# Content
+
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  const toc = document.createElement('ul');
+  toc.className = 'toc';
+  
+  document.querySelectorAll('h2, h3').forEach((heading) => {
+    const text = heading.textContent;
+    const anchor = heading.id || text.replace(/\W+/g, '-').toLowerCase();
+    heading.id = anchor;
+    
+    const li = document.createElement('li');
+    const link = document.createElement('a');
+    link.href = `#${anchor}`;
+    link.textContent = text;
+    li.appendChild(link);
+    
+    toc.appendChild(li);
+  });
+  
+  document.body.insertBefore(toc, document.body.firstChild);
+});
+</script>
+
 ---
 
 # 📜 Papers
