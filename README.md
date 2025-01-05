@@ -17,16 +17,18 @@
 This repo includes papers about methods, benchmarks and evaluation for code generation under multimodal scenarios:
 - UI Code Generation: Web front-end code generation, Mobile app UI code generation, etc。
 - Scientific Code Generation: plot, chart, formula, etc.
+- Slide code generation.
 - Visually Rich Programming: programming problems with image examples.
 - Logo: image generation through svg code generation.
 - Program repair under above scenarios.
+- General Benchmark.
 
 [comment]: <> (multimodal code generation such as UI code generation, scientific plots code generation and so on.)
 
 # Content
 
 - [Awesome-Multimodal-LLM-for-Code](#Awesome-Multimodal-LLM-for-Code)
-  * [Content](#Content)
+  * [Content](#content)
   * [📜 Papers](#📜-Papers)
       - [1. Web/UI Code Generation](#1-Web/UI-Code-Generation)
       - [2. Scientific Plots Code Generation](#2-Scientific-Plots-Code-Generation)
@@ -35,7 +37,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [5. Slide Code Generation](#5-Slide-Code-Generation)
       - [6. Program Repair](#6-Program-Repair)
       - [7. General](#7-General)
-  * [🔥Contributing](#🔥-Contributing)
+  * [🔥Contributing](#contributing)
 
 ---
 
