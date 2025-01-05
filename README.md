@@ -25,28 +25,17 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 # Content
 
-<script>
-document.addEventListener('DOMContentLoaded', (event) => {
-  const toc = document.createElement('ul');
-  toc.className = 'toc';
-  
-  document.querySelectorAll('h2, h3').forEach((heading) => {
-    const text = heading.textContent;
-    const anchor = heading.id || text.replace(/\W+/g, '-').toLowerCase();
-    heading.id = anchor;
-    
-    const li = document.createElement('li');
-    const link = document.createElement('a');
-    link.href = `#${anchor}`;
-    link.textContent = text;
-    li.appendChild(link);
-    
-    toc.appendChild(li);
-  });
-  
-  document.body.insertBefore(toc, document.body.firstChild);
-});
-</script>
+- [Awesome-Multimodal-LLM-for-Code](#awesome-mllm-code)
+  * [Content](#content)
+  * [Papers](#📜 Papers)
+      - [1. Web/UI Code Generation](#1-Web/UI-Code-Generation)
+      - [2. Scientific Plots Code Generation](#2-Scientific-Plots-Code-Generation)
+      - [3. Visually Rich Programming](#3-Visually-Rich-Programming)
+      - [4. Logo Code Generation](#4-Logo-Code-Generation)
+      - [5. Slide Code Generation](#5-Slide-Code-Generation)
+      - [6. Program Repair](#6-Program-Repair)
+      - [7. General](#7-General)
+  * [Contribution](#🔥Contributing)
 
 ---
 
