@@ -34,7 +34,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [1. Web/UI Code Generation](#1-Web/UI-Code-Generation)
       - [2. Scientific Plots Code Generation](#2-Scientific-Plots-Code-Generation)
       - [3. Visually Rich Programming](#3-Visually-Rich-Programming)
-      - [4. Logo Code Generation](#4-Logo-Code-Generation)
+      - [4. SVG Code Generation and Understanding](#4-SVG-Code-Generation-and-Understanding)
       - [5. Slide Code Generation](#5-Slide-Code-Generation)
       - [6. Program Repair](#6-Program-Repair)
       - [7. UML code generation](#7-UML-code-generation)
@@ -144,7 +144,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
-## 4. Logo Code Generation
+## 4. SVG Code Generation and Understanding
 
 1. [**StarVector: Generating Scalable Vector Graphics Code from Images and Text**](https://arxiv.org/abs/2312.11556) *Juan A. Rodriguez, Abhay Puri, Shubham Agarwal, Issam H. Laradji, Pau Rodriguez, Sai Rajeswar, David Vazquez, Christopher Pal, Marco Pedersoli.* Arxiv 2023.
 
@@ -154,7 +154,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 3. [**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models.**](https://arxiv.org/abs/2411.16602) *Ronghuan Wu, Wanchao Su, Jing Liao
 .* Arxiv 2024.
 
-
+4. [**Can Large Language Models Understand Symbolic Graphics Programs?**](https://arxiv.org/abs/2408.08313) *Zeju Qiu, Weiyang Liu, Haiwen Feng, Zhen Liu, Tim Z. Xiao, Katherine M. Collins, Joshua B. Tenenbaum, Adrian Weller, Michael J. Black, Bernhard Schölkopf.* ICLR 2025 (Spotlight). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sgp-bench/sgp-bench)](https://github.com/sgp-bench/sgp-bench)
+   
 
 
 ## 5. Slide Code Generation
