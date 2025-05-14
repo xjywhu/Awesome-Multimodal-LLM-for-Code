@@ -22,6 +22,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 - Logo: image generation through svg code generation.
 - Program repair under above scenarios.
 - UML code generation.
+- CAD code generation.
 - General Benchmark.
 
 [comment]: <> (multimodal code generation such as UI code generation, scientific plots code generation and so on.)
@@ -203,9 +204,11 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 1. [**From Image to UML: First Results of Image-Based UML Diagram Generation using LLMs**](https://arxiv.org/pdf/2404.11376) *Arie van Deursen, Eduard C. Groen .* LLM4MDE 2024.
 
+## 8. CAD code generation
 
+1. [**mrCAD: Multimodal Refinement of Computer-aided Designs**](https://arxiv.org/abs/2504.20294) *William P. McCarthy, Saujas Vaduguru, Karl D. D. Willis, Justin Matejka, Judith E. Fan, Daniel Fried, Yewen Pu .* Arxiv 2025.04.28. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AutodeskAILab/mrCAD)](https://github.com/AutodeskAILab/mrCAD)
    
-## 8. General
+## 9. General
 
 1. [**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**](https://arxiv.org/abs/2410.22456) *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, Michihiro Yasunaga, Yifan Mai, Percy Liang
 .* NeurIPS 2024 Datasets and Benchmarks.
