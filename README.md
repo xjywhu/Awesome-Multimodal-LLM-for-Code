@@ -39,7 +39,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [5. Slide Code Generation](#5-Slide-Code-Generation)
       - [6. Program Repair](#6-Program-Repair)
       - [7. UML code generation](#7-UML-code-generation)
-      - [8. General](#8-General)
+      - [8. CAD code generation](#8-CAD-code-generation)
+      - [9. General](#9-General)
   * [🔥Contributing](#contributing)
 
 ---
