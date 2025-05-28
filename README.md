@@ -40,7 +40,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [6. Program Repair](#6-Program-Repair)
       - [7. UML code generation](#7-UML-code-generation)
       - [8. CAD code generation](#8-CAD-code-generation)
-      - [9. General](#9-General)
+      - [9. Poster code generation](#8-Poster-code-generation)
+      - [10. General](#9-General)
   * [🔥Contributing](#contributing)
 
 ---
@@ -208,8 +209,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 ## 8. CAD code generation
 
 1. [**mrCAD: Multimodal Refinement of Computer-aided Designs**](https://arxiv.org/abs/2504.20294) *William P. McCarthy, Saujas Vaduguru, Karl D. D. Willis, Justin Matejka, Judith E. Fan, Daniel Fried, Yewen Pu .* Arxiv 2025.04.28. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AutodeskAILab/mrCAD)](https://github.com/AutodeskAILab/mrCAD)
+
+
+## 9. Poster code generation
+
+1. [**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**](https://arxiv.org/abs/2505.21497) *Wei Pang, Kevin Qinghong Lin, Xiangru Jian, Xi He, Philip Torr .* Arxiv 2025.05.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Paper2Poster/Paper2Poster)](https://github.com/Paper2Poster/Paper2Poster)
+
    
-## 9. General
+## 10. General
 
 1. [**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**](https://arxiv.org/abs/2410.22456) *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, Michihiro Yasunaga, Yifan Mai, Percy Liang
 .* NeurIPS 2024 Datasets and Benchmarks.
