@@ -150,7 +150,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 7. [**ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation.**](https://arxiv.org/abs/2501.06598) Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Wanxiang Che, Zhiyuan Liu, Maosong Sun.* Arxiv 2025.1 (ACL 2025 Main). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/ChartCoder)](https://github.com/thunlp/ChartCoder)
 
-
+8. [**Enhancing Chart-to-Code Generation in Multimodal Large Language Models via Iterative Dual Preference Learning.**](https://arxiv.org/pdf/2504.02906) Zhihan Zhang, Yixin Cao, and Lizi Liao.* Arxiv 2025.4.3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Zhihan72/Chart2Code)](https://github.com/Zhihan72/Chart2Code)
 
 
 
