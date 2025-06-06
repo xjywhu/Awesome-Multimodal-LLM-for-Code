@@ -203,6 +203,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 3. [**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing.**](https://arxiv.org/abs/2505.11604) *Kyudan Jung, Hojun Cho, Jooyeol Yun, Soyoung Yang, Jaehyeok Jang, Jaegul Choo.* Arxiv 2025.5.16 (https://anonymous.4open.science/r/Talk-to-Your-Slides-0F4C)
 
+4. [**PreGenie: An Agentic Framework for High-quality Visual Presentation.**](https://arxiv.org/abs/2505.21660) *Xiaojie Xu, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
+.* Arxiv 2025.5.27.
+
+
 
 
 ## 6. Program Repair
