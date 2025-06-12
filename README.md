@@ -23,6 +23,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 - Program repair under above scenarios.
 - UML code generation.
 - CAD code generation.
+- Poster code generation.
 - General Benchmark.
 
 [comment]: <> (multimodal code generation such as UI code generation, scientific plots code generation and so on.)
@@ -114,6 +115,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 23. [**Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks**](https://arxiv.org/abs/2505.17399) *Kai Xu, YiWei Mao, XinYi Guan, ZiLong Feng.* Arxiv 2025.5.12. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/web-bench)](https://github.com/bytedance/web-bench)
 
 24. [**FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow**](https://arxiv.org/abs/2505.17399) *Haoyu Sun, Huichen Will Wang, Jiawei Gu, Linjie Li, Yu Cheng.* Arxiv 2025.5.23. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Mikivishy/FullFront)](https://github.com/Mikivishy/FullFront)
+
+25. [**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**](https://arxiv.org/abs/2506.06251) *Jingyu Xiao, Ming Wang, Man Ho Lam, Yuxuan Wan, Junliang Liu, Yintong Huo, Michael R. Lyu.* Arxiv 2025.5.23. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/DesignBench)](https://github.com/WebPAI/DesignBench)
 
 
 
@@ -210,6 +213,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 4. [**PreGenie: An Agentic Framework for High-quality Visual Presentation.**](https://arxiv.org/abs/2505.21660) *Xiaojie Xu, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 .* Arxiv 2025.5.27.
+
+5. [**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design.**](https://www.arxiv.org/abs/2506.07964) *Wenxin Tang, Jingyu Xiao, Wenxuan Jiang, Xi Xiao, Yuhang Wang, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R. Lyu
+.* Arxiv 2025.6.9. [![GitHub Repo stars](https://img.shields.io/github/stars/para-lost/vinsontang1/SlideCoder)](https://github.com/vinsontang1/SlideCoder)
 
 
 
