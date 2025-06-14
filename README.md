@@ -158,10 +158,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 13. [**ChartCards: A Chart-Metadata Generation Framework for Multi-Task Chart Understanding.**](https://arxiv.org/abs/2505.11935) Yifan Wu, Lutao Yan, Leixian Shen, Yinan Mei, Jiannan Wang, Yuyu Luo.* Arxiv 2025.5.21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Evanwu1125/ChartCards)](https://github.com/Evanwu1125/ChartCards)
 
-14. [**Generating Pedagogically Meaningful Visuals for Math Word Problems: A New Benchmark and Analysis of Text-to-Image Models.**](https://arxiv.org/abs/2506.03735) Junling Wang, Anna Rutkiewicz, April Yi Wang, Mrinmaya Sachan.* Arxiv 2025.6.4. (ACL 2025 Findings) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/eth-lre/math2visual)](https://github.com/eth-lre/math2visual)
+14. [**Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework.**](https://arxiv.org/abs/2506.02454) Zhaorui Yang, Bo Pan, Han Wang, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen.* Arxiv 2025.6.3.
+  
+15. [**Generating Pedagogically Meaningful Visuals for Math Word Problems: A New Benchmark and Analysis of Text-to-Image Models.**](https://arxiv.org/abs/2506.03735) Junling Wang, Anna Rutkiewicz, April Yi Wang, Mrinmaya Sachan.* Arxiv 2025.6.4. (ACL 2025 Findings) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/eth-lre/math2visual)](https://github.com/eth-lre/math2visual)
 
 
-## 3. Visually Rich Programming
+
+
+## 3. Visually Rich Programming and Math
 
 1. [**MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems.**](https://arxiv.org/abs/2404.09486) *Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Jing Ma
 .* Arxiv 2024. EMNLP 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/happylkx/MMCode)](https://github.com/happylkx/MMCode)
@@ -177,6 +181,12 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 5. [**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities.**](https://arxiv.org/abs/2502.11829) * Hanbin Wang, Xiaoxuan Zhou, Zhipeng Xu, Keyuan Cheng, Yuxin Zuo, Kai Tian, Jingwei Song, Junting Lu, Wenhui Hu, Xueyang Liu
 .* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wanghanbinpanda/CodeVision)](https://github.com/wanghanbinpanda/CodeVision)
+
+6. [**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning.**](https://arxiv.org/abs/2505.10557) * Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li
+.* Arxiv 2025.05.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mathllm/MathCoder)](https://github.com/mathllm/MathCoder)
+
+
+
 
 
 
@@ -235,9 +245,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 3. [**CodeV: Issue Resolving with Visual Data**](https://arxiv.org/abs/2412.17315) *Linhao Zhang, Daoguang Zan, Quanshun Yang, Zhirong Huang, Dong Chen, Bo Shen, Tianyu Liu, Yongshun Gong, Pengjie Huang, Xudong Lu, Guangtai Liang, Lizhen Cui, Qianxiang Wang .* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/luolin101/CodeV)](https://github.com/luolin101/CodeV)
 
-## 7. UML code generation
+## 7. UML and workflow code generation
 
 1. [**From Image to UML: First Results of Image-Based UML Diagram Generation using LLMs**](https://arxiv.org/pdf/2404.11376) *Arie van Deursen, Eduard C. Groen .* LLM4MDE 2024.
+2. [**StarFlow: Generating Structured Workflow Outputs From Sketch Images**](https://arxiv.org/abs/2503.21889) *Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, Spandana Gella, Sai Rajeswar, Perouz Taslakian. Arxiv 2025.03.27.
+
+
+
+
 
 ## 8. CAD code generation
 
