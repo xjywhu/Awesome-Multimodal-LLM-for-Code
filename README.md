@@ -43,7 +43,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [8. CAD code generation](#8-CAD-code-generation)
       - [9. Poster code generation](#9-Poster-code-generation)
       - [10. Multimodal document generation](#10-Multimodal-document-generation)
-      - [11. General](#11-General)
+      - [11. 3D point clouds code generation](#11-3D-point-code-generation)
+      - [12. General](#11-General)
   * [🔥Contributing](#contributing)
 
 ---
@@ -303,8 +304,12 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 2. [**Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework**](https://arxiv.org/abs/2506.02454) *Zhaorui Yang, Bo Pan, Han Wang, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen.* Arxiv 2025.06.03.
 
+
+## 11. 3D point clouds code generation
+
+1. [**MeshCoder: LLM-Powered Structured Mesh CodeGeneration from Point Clouds**](https://arxiv.org/abs/2508.14879v1) *Bingquan Dai, Li Ray Luo, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang.* Arxiv 2025.08.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternRobotics/MeshCoder)](https://github.com/InternRobotics/MeshCoder)
    
-## 11. General
+## 12. General
 
 1. [**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**](https://arxiv.org/abs/2410.22456) *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, Michihiro Yasunaga, Yifan Mai, Percy Liang
 .* NeurIPS 2024 Datasets and Benchmarks.
