@@ -335,6 +335,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 6. [**VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models**](https://arxiv.org/abs/2508.09945) *Lingjie Jiang, Shaohan Huang, Xun Wu, Yixia Li,Dongdong Zhang,Furu Wei.* Arxiv 2025.08.13. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/JackLingjie/VisCodex)](https://github.com/JackLingjie/VisCodex)
 
+7. [**Multilingual Multimodal Software Developer for Code Generation**](https://arxiv.org/abs/2507.08719) *Linzheng Chai, Jian Yang, Shukai Liu, Wei Zhang, Liran Wang, Ke Jin, Tao Sun, Congnan Liu, Chenchen Zhang, Hualei Zhu, Jiaheng Liu, Xianjie Wu, Ge Zhang, Tianyu Liu, Zhoujun Li.* Arxiv 2025.07.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MCEVAL/MMCoder)](https://github.com/MCEVAL/MMCoder)
+
 
 
 # 🔥Contributing
