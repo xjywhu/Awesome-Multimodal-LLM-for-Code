@@ -181,12 +181,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
   
 17. [**Generating Pedagogically Meaningful Visuals for Math Word Problems: A New Benchmark and Analysis of Text-to-Image Models.**](https://arxiv.org/abs/2506.03735) Junling Wang, Anna Rutkiewicz, April Yi Wang, Mrinmaya Sachan.* Arxiv 2025.6.4. (ACL 2025 Findings) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/eth-lre/math2visual)](https://github.com/eth-lre/math2visual)
 
-18. [**Effective Training Data Synthesis for Improving MLLM Chart Understanding.**](https://arxiv.org/abs/2508.06492) Yuwei Yang, Zeyu Zhang, Yunzhong Hou, Zhuowan Li, Gaowen Liu, Ali Payani, Yuan-Sen Ting, Liang Zheng. Arxiv 2025.8.8. (ICCV 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuweiyang-anu/ECD)](https://github.com/yuweiyang-anu/ECD)
+18. [**VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation.**](https://arxiv.org/abs/2506.03735) Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen.* Arxiv 2025.6.4. (EMNLP 2025 Findings) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VisCoder)](https://github.com/TIGER-AI-Lab/VisCoder)
+
+19. [**Effective Training Data Synthesis for Improving MLLM Chart Understanding.**](https://arxiv.org/abs/2508.06492) Yuwei Yang, Zeyu Zhang, Yunzhong Hou, Zhuowan Li, Gaowen Liu, Ali Payani, Yuan-Sen Ting, Liang Zheng. Arxiv 2025.8.8. (ICCV 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuweiyang-anu/ECD)](https://github.com/yuweiyang-anu/ECD)
 
 
-19. [**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation.**](https://arxiv.org/abs/2508.06492) Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma. Arxiv 2025.8.19. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/MSRL)](https://github.com/DocTron-hub/MSRL)
+20. [**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation.**](https://arxiv.org/abs/2508.06492) Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma. Arxiv 2025.8.19. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/MSRL)](https://github.com/DocTron-hub/MSRL)
 
-20. [**ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning.**](https://arxiv.org/abs/2508.17608) Wentao Tan, Qiong Cao, Chao Xue, Yibing Zhan, Changxing Ding, Xiaodong He. Arxiv 2025.8.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
+21. [**ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning.**](https://arxiv.org/abs/2508.17608) Wentao Tan, Qiong Cao, Chao Xue, Yibing Zhan, Changxing Ding, Xiaodong He. Arxiv 2025.8.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
 
 
 
