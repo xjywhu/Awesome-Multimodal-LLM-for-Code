@@ -133,6 +133,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 31. [**Generative Interfaces for Language Models**](https://arxiv.org/abs/2508.19227) *Jiaqi Chen, Yanzhe Zhang, Yutong Zhang, Yijia Shao, Diyi Yang.* Arxiv 2025.8.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SALT-NLP/GenUI
 )](https://github.com/SALT-NLP/GenUI)
 
+32. [**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**](https://arxiv.org/abs/2509.12159) *Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu.* Arxiv 2025.9.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/EfficientUICoder)](https://github.com/WebPAI/EfficientUICoder)
+
 
 
 
