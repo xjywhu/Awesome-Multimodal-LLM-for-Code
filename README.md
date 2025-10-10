@@ -279,6 +279,11 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 6. [**PresentAgent: Multimodal Agent for Presentation Video Generation.**](https://www.arxiv.org/abs/2507.04036) *Jingwei Shi, Zeyu Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
 .* Arxiv 2025.7.5. [![GitHub Repo stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent)](https://github.com/AIGeeksGroup/PresentAgent)
 
+7. [**Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations.**](https://arxiv.org/abs/2510.05571) *Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yannan Xie, Peng Qi, Xin Eric Wang
+.* Arxiv 2025.10.7. [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/EvoPresent)](https://github.com/eric-ai-lab/EvoPresent)
+
+
+
 
 
 
