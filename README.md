@@ -207,6 +207,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 21. [**ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning.**](https://arxiv.org/abs/2508.17608) Wentao Tan, Qiong Cao, Chao Xue, Yibing Zhan, Changxing Ding, Xiaodong He. Arxiv 2025.8.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
 
+22. [**OpusAnimation: Code-Based Dynamic Chart Generation.**](https://arxiv.org/abs/2510.03341) Bozheng Li, Miao Yang, Zhenhan Chen, Jiawang Cao, Mushui Liu, Yi Lu, Yongliang Wu, Bin Zhang, Yangguang Ji, Licheng Tang, Jay Wu, Wenbo Zhu. Arxiv 2025.10.02. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
 
 
 
@@ -266,7 +267,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
-## 5. Slide Code Generation
+## 5. Slide && Presentation Generation
 
 1. [**AutoPresent: Designing Structured Visuals from Scratch.**](https://www.arxiv.org/abs/2501.00912) *Jiaxin Ge, Zora Zhiruo Wang, Xuhui Zhou, Yi-Hao Peng, Sanjay Subramanian, Qinyue Tan, Maarten Sap, Alane Suhr, Daniel Fried, Graham Neubig, Trevor Darrell
 .* Arxiv 2025.1.1 (CVPR 2025). [![GitHub Repo stars](https://img.shields.io/github/stars/para-lost/AutoPresent)](https://github.com/para-lost/AutoPresent)
@@ -285,7 +286,15 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 6. [**PresentAgent: Multimodal Agent for Presentation Video Generation.**](https://www.arxiv.org/abs/2507.04036) *Jingwei Shi, Zeyu Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
 .* Arxiv 2025.7.5. [![GitHub Repo stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent)](https://github.com/AIGeeksGroup/PresentAgent)
 
-7. [**Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations.**](https://arxiv.org/abs/2510.05571) *Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yannan Xie, Peng Qi, Xin Eric Wang
+
+7. [**Code2Video: A Code-centric Paradigm for Educational Video Generation.**](https://arxiv.org/abs/2510.01174) *Yanzhe Chen, Kevin Qinghong Lin, Mike Zheng Shou
+.* Arxiv 2025.10.1. [![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Code2Video)](https://github.com/showlab/Code2Video)
+  
+
+8. [**Paper2Video: Automatic Video Generation from Scientific Papers.**](https://arxiv.org/abs/2510.05096) *Zeyu Zhu, Kevin Qinghong Lin, Mike Zheng Shou
+.* Arxiv 2025.10.6. [![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Paper2Video)](https://github.com/showlab/Paper2Video)
+
+9. [**Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations.**](https://arxiv.org/abs/2510.05571) *Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yannan Xie, Peng Qi, Xin Eric Wang
 .* Arxiv 2025.10.7. [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/EvoPresent)](https://github.com/eric-ai-lab/EvoPresent)
 
 
