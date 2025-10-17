@@ -209,7 +209,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 22. [**OpusAnimation: Code-Based Dynamic Chart Generation.**](https://arxiv.org/abs/2510.03341) Bozheng Li, Miao Yang, Zhenhan Chen, Jiawang Cao, Mushui Liu, Yi Lu, Yongliang Wu, Bin Zhang, Yangguang Ji, Licheng Tang, Jay Wu, Wenbo Zhu. Arxiv 2025.10.02. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
 
-
+23. [**InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation.**](https://arxiv.org/abs/2510.03341) Qiaosheng Chen, Yang Liu, Lei Li, Kai Chen, Qipeng Guo, Gong Cheng, Fei Yuan. Arxiv 2025.10.10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/InteractScience)](https://github.com/open-compass/InteractScience)
 
 
 
