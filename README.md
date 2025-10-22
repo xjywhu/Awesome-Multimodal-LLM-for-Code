@@ -301,6 +301,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 .* Arxiv 2025.10.7. [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/EvoPresent)](https://github.com/eric-ai-lab/EvoPresent)
 
 
+10. [**Paper2Web: Let's Make Your Paper Alive!.**](https://arxiv.org/abs/2510.15842) *Yuhang Chen, Tianpeng Lv, Siyi Zhang, Yixiang Yin, Yao Wan, Philip S. Yu, Dongping Chen
+.* Arxiv 2025.10.17. [![GitHub Repo stars](https://img.shields.io/github/stars/YuhangChen1/Paper2All)](https://github.com/YuhangChen1/Paper2All)
+
+
 
 
 
