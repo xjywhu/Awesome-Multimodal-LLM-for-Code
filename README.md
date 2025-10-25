@@ -305,6 +305,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 .* Arxiv 2025.10.17. [![GitHub Repo stars](https://img.shields.io/github/stars/YuhangChen1/Paper2All)](https://github.com/YuhangChen1/Paper2All)
 
 
+11. [**Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1.**](https://arxiv.org/abs/2510.19600) *Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, Bingjie Gao, Zhening Xing, Yanan Sun, Zhipeng Zhang
+.* Arxiv 2025.10.22. [![GitHub Repo stars](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/AutoPage)](https://github.com/AutoLab-SAI-SJTU/AutoPage)
+
+
 
 
 
