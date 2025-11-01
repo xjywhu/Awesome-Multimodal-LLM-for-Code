@@ -153,6 +153,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 39. [**WebRenderBench: Enhancing Web Interface Generation through Layout-Style Consistency and Reinforcement Learning**](https://arxiv.org/abs/2510.04097) *Peichao Lai, Jinhui Zhuang, Kexuan Zhang, Ningchang Xiong, Shengjie Wang, Yanwei Xu, Chong Chen, Yilei Wang, Bin Cui.* Arxiv 2025.10.5.
 
+40. [**WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation**](https://arxiv.org/abs/2510.15306) *Kuang-Da Wang, Zhao Wang, Yotaro Shimose, Wei-Yao Wang, Shingo Takamatsu.* Arxiv 2025.10.17.
+
+
 
 
 
@@ -387,6 +390,12 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 8. [**Table2LaTeX-RL: High-Fidelity LaTeX Code Generation from Table Images via Reinforced Multimodal Language Models**](https://arxiv.org/abs/2509.17589) *Jun Ling, Yao Qi, Tao Huang, Shibo Zhou, Yanqin Huang, Jiang Yang, Ziqi Song, Ying Zhou, Yang Yang, Heng Tao Shen, Peng Wang.* Arxiv 2025.09.22 (NeurIPS 2025). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/newLLing/Table2LaTeX-RL)](https://github.com/newLLing/Table2LaTeX-RL)
 
 9. [**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**](https://arxiv.org/abs/2510.06207) *Zefu Lin, Rongxu Cui, Chen Hanning, Xiangyu Wang, Junjia Xu, Xiaojuan Jin, Chen Wenbo, Hui Zhou, Lue Fan, Wenling Li, Zhaoxiang Zhang.
+
+10. [**VisCoder2: Building Multi-Language Visualization Coding Agents**](https://arxiv.org/abs/2510.23642) *Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen* Arxiv 2025.10.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VisCoder2)](https://github.com/TIGER-AI-Lab/VisCoder2)
+
+
+11. [**JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence**](https://arxiv.org/abs/2510.23538) *Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Lei Li, Kai Chen, Qipeng Guo, Ben Kao, Fei Yuan.* Arxiv 2025.10.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/JanusCoder)](https://github.com/InternLM/JanusCoder)
+
 
 
 
