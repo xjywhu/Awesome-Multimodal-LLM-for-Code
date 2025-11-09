@@ -220,6 +220,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 23. [**InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation.**](https://arxiv.org/abs/2510.03341) Qiaosheng Chen, Yang Liu, Lei Li, Kai Chen, Qipeng Guo, Gong Cheng, Fei Yuan. Arxiv 2025.10.10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/InteractScience)](https://github.com/open-compass/InteractScience)
 
+24. [**From Charts to Code: A Hierarchical Benchmark for Multimodal Models.**](https://arxiv.org/abs/2510.17932) Jiahao Tang, Henry Hengyuan Zhao, Lijian Wu, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang
+. Arxiv 2025.10.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/Chart2Code)](https://github.com/CSU-JPG/Chart2Code)
+
 
 
 
@@ -272,6 +275,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 8. [**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation.**](https://arxiv.org/abs/2505.24499) *Ximing Xing, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu.* Arxiv 2025.5.30.
 
 9. [**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation.**](https://arxiv.org/abs/2504.06263) *Siqi Chen, Xinyu Dong, Haolei Xu, Xingyu Wu, Fei Tang, Hang Zhang, Yuchen Yan, Linjuan Wu, Wenqi Zhang, Guiyang Hou, Yongliang Shen, Weiming Lu, Yueting Zhuang.* Arxiv 2025.6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-REAL/SVGenius)](https://github.com/ZJU-REAL/SVGenius)
+
+10. [**VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation.**](https://arxiv.org/abs/2504.06263) *Kevin Qinghong Lin, Yuhao Zheng, Hangyu Ran, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang.* Arxiv 2025.11.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/VCode)](https://github.com/CSU-JPG/VCode)
 
 
 
