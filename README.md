@@ -45,7 +45,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [9. Poster code generation](#9-Poster-code-generation)
       - [10. Multimodal document generation](#10-Multimodal-document-generation)
       - [11. 3D point clouds code generation](#11-3D-point-code-generation)
-      - [12. General](#11-General)
+      - [12. Game](#12-game)
+      - [13. General](#13-General)
   * [🔥Contributing](#contributing)
 
 ---
