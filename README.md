@@ -24,7 +24,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 - UML code generation.
 - CAD code generation.
 - Poster code generation.
-- General Benchmark.
+- Game code generation.
+- General Benchmark and Foundation MLLM-based Code Models.
 
 [comment]: <> (multimodal code generation such as UI code generation, scientific plots code generation and so on.)
 
@@ -33,7 +34,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 - [Awesome-Multimodal-LLM-for-Code](#Awesome-Multimodal-LLM-for-Code)
   * [Content](#content)
   * [📜 Papers](#papers)
-      - [1. Web/UI Code Generation](#1-Web/UI-Code-Generation)
+      - [1. Web/Mobile UI Code Generation](#1-Web/Mobile-UI-Code-Generation)
       - [2. Scientific Plots Code Generation](#2-Scientific-Plots-Code-Generation)
       - [3. Visually Rich Programming](#3-Visually-Rich-Programming)
       - [4. SVG Code Generation and Understanding](#4-SVG-Code-Generation-and-Understanding)
@@ -53,7 +54,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 > You can directly click on the title to jump to the corresponding PDF link location
 
-## 1. Web/UI Code Generation
+## 1. Web/Mobile UI Code Generation
 
 1. [**Design2Code: How Far Are We From Automating Front-End Engineering?.**](https://arxiv.org/abs/2403.03163) *Chenglei Si, Yanzhe Zhang, Zhengyuan Yang, Ruibo Liu, Diyi Yang
 .* NAACL 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NoviScl/Design2Code)](https://github.com/NoviScl/Design2Code)
@@ -291,7 +292,6 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
-
 ## 5. Slide && Presentation Generation
 
 1. [**AutoPresent: Designing Structured Visuals from Scratch.**](https://www.arxiv.org/abs/2501.00912) *Jiaxin Ge, Zora Zhiruo Wang, Xuhui Zhou, Yi-Hao Peng, Sanjay Subramanian, Qinyue Tan, Maarten Sap, Alane Suhr, Daniel Fried, Graham Neubig, Trevor Darrell
@@ -330,6 +330,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 11. [**Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1.**](https://arxiv.org/abs/2510.19600) *Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, Bingjie Gao, Zhening Xing, Yanan Sun, Zhipeng Zhang
 .* Arxiv 2025.10.22. [![GitHub Repo stars](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/AutoPage)](https://github.com/AutoLab-SAI-SJTU/AutoPage)
 
+
+12. [**PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding**](https://arxiv.org/abs/2512.02624) *Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, Ye Liu
+.* Arxiv 2025.12.02. [![GitHub Repo stars](https://img.shields.io/github/stars/Gastronomicluna/PPTBench-Eval)](https://github.com/Gastronomicluna/PPTBench-Eval)
 
 
 
@@ -385,8 +388,16 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 1. [**Real2Code: Reconstruct Articulated Objects via Code Generation**](https://arxiv.org/abs/2406.08474) *Zhao Mandi, Yijia Weng, Dominik Bauer, Shuran Song.* Arxiv 2024.06.12. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MandiZhao/real2code)](https://github.com/MandiZhao/real2code)
 
 2. [**MeshCoder: LLM-Powered Structured Mesh CodeGeneration from Point Clouds**](https://arxiv.org/abs/2508.14879v1) *Bingquan Dai, Li Ray Luo, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang.* Arxiv 2025.08.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternRobotics/MeshCoder)](https://github.com/InternRobotics/MeshCoder)
-   
-## 12. General
+
+
+## 12. Game
+
+1. [**V-GameGym: Visual Game Generation for Code Large Language Models**](https://arxiv.org/abs/2509.20136) *Wei Zhang, Jack Yang, Renshuai Tao, Lingzheng Chai, Shawn Guo, Jiajun Wu, Xiaoming Chen, Ganqu Cui, Ning Ding, Xander Xu, Hu Wei, Bowen Zhou.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SKYLENAGE-GameCodeGym)](http://github.com/alibaba/SKYLENAGE-GameCodeGym)
+
+2. [**90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development**](https://arxiv.org/abs/2509.26161) *Wei Zhang, Jack Yang, Renshuai Tao, Lingzheng Chai, Shawn Guo, Jiajun Wu, Xiaoming Chen, Ganqu Cui, Ning Ding, Xander Xu, Hu Wei, Bowen Zhou.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yxwan123/UniGen)](https://github.com/yxwan123/UniGen)
+
+
+## 13. General
 
 1. [**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**](https://arxiv.org/abs/2410.22456) *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, Michihiro Yasunaga, Yifan Mai, Percy Liang
 .* NeurIPS 2024 Datasets and Benchmarks.
