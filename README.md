@@ -46,7 +46,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [10. Multimodal document generation](#10-Multimodal-document-generation)
       - [11. 3D point clouds code generation](#11-3D-point-code-generation)
       - [12. Game](#12-game)
-      - [13. General](#13-General)
+      - [13. Code for MLLM's Image Understanding](#13-code-for-MLLM's-image-understanding)
+      - [14. General](#14-General)
   * [🔥Contributing](#contributing)
 
 ---
@@ -398,7 +399,15 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 2. [**90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development**](https://arxiv.org/abs/2509.26161) *Wei Zhang, Jack Yang, Renshuai Tao, Lingzheng Chai, Shawn Guo, Jiajun Wu, Xiaoming Chen, Ganqu Cui, Ning Ding, Xander Xu, Hu Wei, Bowen Zhou.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yxwan123/UniGen)](https://github.com/yxwan123/UniGen)
 
 
-## 13. General
+## 13. Code for MLLM's Image Understanding
+
+1. [**VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation.**](https://arxiv.org/abs/2504.06263) *Kevin Qinghong Lin, Yuhao Zheng, Hangyu Ran, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang.* Arxiv 2025.11.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/VCode)](https://github.com/CSU-JPG/VCode)
+
+2. [**Thinking with Programming Vision: Towards a Unified View for Thinking with Images.**](https://arxiv.org/abs/2512.03746) *Zirun Guo, Minjie Hong, Feng Zhang, Kai Jia, Tao Jin.* Arxiv 2025.12.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-BandAI/CodeVision)](https://github.com/ByteDance-BandAI/CodeVision)
+
+
+
+## 14. General
 
 1. [**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**](https://arxiv.org/abs/2410.22456) *Josselin Somerville Roberts, Tony Lee, Chi Heem Wong, Michihiro Yasunaga, Yifan Mai, Percy Liang
 .* NeurIPS 2024 Datasets and Benchmarks.
