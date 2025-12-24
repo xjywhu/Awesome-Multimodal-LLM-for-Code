@@ -293,11 +293,13 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 10. [**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation.**](https://arxiv.org/abs/2504.06263) *Siqi Chen, Xinyu Dong, Haolei Xu, Xingyu Wu, Fei Tang, Hang Zhang, Yuchen Yan, Linjuan Wu, Wenqi Zhang, Guiyang Hou, Yongliang Shen, Weiming Lu, Yueting Zhuang.* Arxiv 2025.6.3. (MM 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-REAL/SVGenius)](https://github.com/ZJU-REAL/SVGenius)
 
-11. [**VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation.**](https://arxiv.org/abs/2504.06263) *Kevin Qinghong Lin, Yuhao Zheng, Hangyu Ran, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang.* Arxiv 2025.11.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/VCode)](https://github.com/CSU-JPG/VCode)
+11. [**See it. Say it. Sorted: Agentic System for Compositional Diagram Generation.**](https://arxiv.org/abs/2512.14336) *Hantao Zhang, Jingyang Liu, Ed Li.* Arxiv 2025.08.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hantaoZhangrichard/see_it_say_it_sorted)](https://github.com/hantaoZhangrichard/see_it_say_it_sorted)
 
-12. [**DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance.**](https://arxiv.org/abs/2512.10894) *Peiying Zhang, Nanxuan Zhao, Matthew Fisher, Yiran Xu, Jing Liao, Difan Liu.* Arxiv 2025.12.11.
+12. [**VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation.**](https://arxiv.org/abs/2504.06263) *Kevin Qinghong Lin, Yuhao Zheng, Hangyu Ran, Dantong Zhu, Dongxing Mao, Linjie Li, Philip Torr, Alex Jinpeng Wang.* Arxiv 2025.11.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/VCode)](https://github.com/CSU-JPG/VCode)
 
-13. [**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure.**](https://arxiv.org/abs/2512.14336) *Jooyeol Yun, Jaegul Choo.* Arxiv 2025.12.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YeolJ00/vector-prism)](https://github.com/YeolJ00/vector-prism)
+13. [**DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance.**](https://arxiv.org/abs/2512.10894) *Peiying Zhang, Nanxuan Zhao, Matthew Fisher, Yiran Xu, Jing Liao, Difan Liu.* Arxiv 2025.12.11.
+
+14. [**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure.**](https://arxiv.org/abs/2512.14336) *Jooyeol Yun, Jaegul Choo.* Arxiv 2025.12.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YeolJ00/vector-prism)](https://github.com/YeolJ00/vector-prism)
 
 
 
