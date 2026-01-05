@@ -173,7 +173,11 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 46. [**CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design**](https://arxiv.org/abs/2511.20737)*Daeheon Jeong, Seoyeon Byun, Kihoon Son, Dae Hyun Kim, Juho Kim* Arxiv 2025.11.25 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-47. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
+47. [**Beyond Prototyping: Autonomous, Enterprise-Grade Frontend Development from Pixel to Production via a Specialized Multi-Agent Framework**](https://arxiv.org/abs/2512.06046)*Ramprasath Ganesaraja, Swathika N, Saravanan AP, Kamalkumar Rathinasamy, Chetana Amancharla, Rahul Das, Sahil Dilip Panse, Aditya Batwe, Dileep Vijayan, Veena Ashok, Thanushree A P, Kausthubh J Rao, Alden Olivero, Roshan, Rajeshwar Reddy Manthena, Asmitha Yuga Sre A, Harsh Tripathi, Suganya Selvaraj, Vito Chin, Kasthuri Rangan Bhaskar, Kasthuri Rangan Bhaskar, Venkatraman R, Sajit Vijayakumar* Arxiv 2025.12.05.
+
+48. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
+
+
 
 
 
