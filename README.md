@@ -169,9 +169,11 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 44. [**UI2CodeN: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation**](https://arxiv.org/abs/2511.08195)*Zhen Yang, Wenyi Hong, Mingde Xu, Xinyue Fan, Weihan Wang, Jiele Cheng, Xiaotao Gu, Jie Tangg* Arxiv 2025.11.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/UI2Code_N)](https://github.com/zai-org/UI2Code_N)
 
-45. [**Computer-Use Agents as Judges for Generative User Interface**](https://arxiv.org/abs/2511.15567)*Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip Torr, Mike Zheng Shou* Arxiv 2025.11.19 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/showlab/AUI)](https://github.com/showlab/AUI)
+45. [**Computer-Use Agents as Judges for Generative User Interface**](https://arxiv.org/abs/2511.15567)*Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip Torr, Mike Zheng Shou* Arxiv 2025.11.19. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/showlab/AUI)](https://github.com/showlab/AUI)
 
 46. [**CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design**](https://arxiv.org/abs/2511.20737)*Daeheon Jeong, Seoyeon Byun, Kihoon Son, Dae Hyun Kim, Juho Kim* Arxiv 2025.11.25 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+47. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
 
 
 
