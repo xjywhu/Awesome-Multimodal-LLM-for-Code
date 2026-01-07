@@ -351,7 +351,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 12. [**PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding**](https://arxiv.org/abs/2512.02624) *Zheng Huang, Xukai Liu, Tianyu Hu, Kai Zhang, Ye Liu
 .* Arxiv 2025.12.02. [![GitHub Repo stars](https://img.shields.io/github/stars/Gastronomicluna/PPTBench-Eval)](https://github.com/Gastronomicluna/PPTBench-Eval)
 
-13. [**SlideTailor: Personalized Presentation Slide Generation for Scientific Papers**](https://arxiv.org/abs/2512.20292) *Wenzheng Zeng, Mingyu Ouyang, Langyuan Cui, Hwee Tou Ng
+13. [**SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation**](https://arxiv.org/abs/2512.04529) *Xin Liang, Xiang Zhang, Yiwei Xu, Siqi Sun, Chenyu You
+.* Arxiv 2025.12.04. [![GitHub Repo stars](https://img.shields.io/github/stars/Y-Research-SBU/SlideGen)](https://github.com/Y-Research-SBU/SlideGen)
+
+14. [**SlideTailor: Personalized Presentation Slide Generation for Scientific Papers**](https://arxiv.org/abs/2512.20292) *Wenzheng Zeng, Mingyu Ouyang, Langyuan Cui, Hwee Tou Ng
 .* Arxiv 2025.12.23. (AAAI 2026) [![GitHub Repo stars](https://img.shields.io/github/stars/nusnlp/SlideTailor)](https://github.com/nusnlp/SlideTailor)
 
 
