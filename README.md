@@ -175,7 +175,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 47. [**Beyond Prototyping: Autonomous, Enterprise-Grade Frontend Development from Pixel to Production via a Specialized Multi-Agent Framework**](https://arxiv.org/abs/2512.06046)*Ramprasath Ganesaraja, Swathika N, Saravanan AP, Kamalkumar Rathinasamy, Chetana Amancharla, Rahul Das, Sahil Dilip Panse, Aditya Batwe, Dileep Vijayan, Veena Ashok, Thanushree A P, Kausthubh J Rao, Alden Olivero, Roshan, Rajeshwar Reddy Manthena, Asmitha Yuga Sre A, Harsh Tripathi, Suganya Selvaraj, Vito Chin, Kasthuri Rangan Bhaskar, Kasthuri Rangan Bhaskar, Venkatraman R, Sajit Vijayakumar* Arxiv 2025.12.05.
 
-48. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
+
+48.  [**FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback**](https://arxiv.org/abs/2601.04203)*Xueqing Wu, Zihan Xue, Da Yin, Shuyan Zhou, Kai-Wei Chang, Nanyun Peng, Yeming Wen* Arxiv 2025.12.05. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/shirley-wu/frontalk)](https://github.com/shirley-wu/frontalk)
+
+49. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
 
 
 
