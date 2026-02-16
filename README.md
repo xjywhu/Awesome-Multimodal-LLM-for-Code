@@ -182,6 +182,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 50. [**WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics**](https://web3.arxiv.org/abs/2601.02430)*Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie* Arxiv 2026.01.05.
 
+51. [**FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation**](https://arxiv.org/abs/2602.03798)*Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Mingjie Zhan, Hongsheng Li* Arxiv 2026.02.03. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/mnluzimu/FullStack-Agent)](https://github.com/mnluzimu/FullStack-Agent)
+
+52. [**VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation**](https://arxiv.org/abs/2602.05998)*Jie Deng, Kaichun Yao, Libo Zhang* Arxiv 2026.02.05.
+
+53. [**Bridging Design and Implementation: A Study of Multi-Agent LLM Architectures for Automated Front-End Generation**](https://das.encs.concordia.ca/pdf/rizk_MSR2026.pdf)*Caren Rizk, SayedHassan Khatoonabadi, Emad Shihab* (MSR 2026)
+
+
+
 
 
 
