@@ -260,6 +260,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 24. [**From Charts to Code: A Hierarchical Benchmark for Multimodal Models.**](https://arxiv.org/abs/2510.17932) Jiahao Tang, Henry Hengyuan Zhao, Lijian Wu, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang
 . Arxiv 2025.10.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CSU-JPG/Chart2Code)](https://github.com/CSU-JPG/Chart2Code)
 
+25. [**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**](https://arxiv.org/abs/2602.15758) Manav Nitin Kapadnis, Lawanya Baghel, Atharva Naik, Carolyn Rosé. Arxiv 2026.02.17.
+
 
 
 
@@ -386,6 +388,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 3. [**CodeV: Issue Resolving with Visual Data**](https://arxiv.org/abs/2412.17315) *Linhao Zhang, Daoguang Zan, Quanshun Yang, Zhirong Huang, Dong Chen, Bo Shen, Tianyu Liu, Yongshun Gong, Pengjie Huang, Xudong Lu, Guangtai Liang, Lizhen Cui, Qianxiang Wang .* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/luolin101/CodeV)](https://github.com/luolin101/CodeV)
 
 4. [**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**](https://www.arxiv.org/abs/2506.16136) *Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen .* Arxiv 2025.6.19.
+
+5. [**SVRepair: Structured Visual Reasoning for Automated Program Repair**](https://arxiv.org/abs/2602.06090) *Xiaoxuan Tang, Jincheng Wang, Liwei Luo, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li.* Arxiv 2026.02.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-SVR)](https://github.com/codefuse-ai/CodeFuse-SVR)
+
 
 
 
