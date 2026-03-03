@@ -191,9 +191,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 54. [**SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?**](https://arxiv.org/abs/2602.09540)*Muxin Tian, Zhe Wang, Blair Yang, Zhenwei Tang, Kunlun Zhu, Honghua Dong, Hanchen Li, Xinni Xie, Guangjing Wang, Jiaxuan You* Arxiv 2026.02.10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/realtmxi/swe-bench-mobile)](https://github.com/realtmxi/swe-bench-mobile)
 
 55. [**1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World**](https://arxiv.org/abs/2602.18548)*Qiao Xu, Yipeng Yu, Chengxiao Feng, Xu Liu* Arxiv 2026.02.20.
+
+56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
     
-
-
 
 
 
