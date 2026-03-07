@@ -193,7 +193,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 55. [**1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World**](https://arxiv.org/abs/2602.18548)*Qiao Xu, Yipeng Yu, Chengxiao Feng, Xu Liu* Arxiv 2026.02.20.
 
 56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
-    
+
+57. [**𝐿𝑖𝑘𝑒𝑇ℎ𝑖𝑠! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**](https://arxiv.org/abs/2603.04245)*Jialiang Wei, Ali Ebrahimi Pourasad, Walid Maalej* Arxiv 2026.03.04.
+
+
 
 
 
