@@ -195,6 +195,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 57. [**𝐿𝑖𝑘𝑒𝑇ℎ𝑖𝑠! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**](https://arxiv.org/abs/2603.04245)*Jialiang Wei, Ali Ebrahimi Pourasad, Walid Maalej* Arxiv 2026.03.04.
 
+58. [**No Code, No Cloud: On-Device Mockup-to-Code withLightweight Vision-Language AI**](https://dl.acm.org/doi/full/10.1145/3742413.3789144)*Abinas Kuganathan, Mitra Purandare, Markus Stolze* 2026.03.22 (IUI 2026).
+
+59. [**AutoStructGUI: Bridging Design and Implementation of GUI through Structured Layout Generation**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Junquan Ren, Pengfei Xu* 2026.03.22 (IUI 2026).
+
 
 
 
@@ -448,6 +452,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 1. [**V-GameGym: Visual Game Generation for Code Large Language Models**](https://arxiv.org/abs/2509.20136) *Wei Zhang, Jack Yang, Renshuai Tao, Lingzheng Chai, Shawn Guo, Jiajun Wu, Xiaoming Chen, Ganqu Cui, Ning Ding, Xander Xu, Hu Wei, Bowen Zhou.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SKYLENAGE-GameCodeGym)](http://github.com/alibaba/SKYLENAGE-GameCodeGym)
 
 2. [**90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development**](https://arxiv.org/abs/2509.26161) *Runxin Yang, Yuxuan Wan, Shuqing Li, Michael R. Lyu.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yxwan123/UniGen)](https://github.com/yxwan123/UniGen)
+
+3. [**GameUIAgent: An LLM-Powered Framework for Automated Game UI Design with Structured Intermediate Representation**](https://arxiv.org/abs/2603.14724) *Wei Zeng, Fengwei An, Zhen Liu, Jian Zhao.* Arxiv 2026.03.16.
 
 
 ## 13. Code for MLLM's Image Understanding
