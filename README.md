@@ -328,6 +328,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 14. [**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure.**](https://arxiv.org/abs/2512.14336) *Jooyeol Yun, Jaegul Choo.* Arxiv 2025.12.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YeolJ00/vector-prism)](https://github.com/YeolJ00/vector-prism)
 
+15. [**Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning.**](https://arxiv.org/abs/2512.14336) *Haomin Wang, Qi Wei, Qianli Ma, Shengyuan Ding, Jinhui Yin, Kai Chen, Hongjie Zhang.* Arxiv 2026.03.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hmwang2002/CTRL-S)](https://github.com/hmwang2002/CTRL-S)
+
 
 
 ## 5. Slide && Presentation Generation
