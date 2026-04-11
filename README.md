@@ -141,7 +141,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 33. [**UI-Bench: A Benchmark for Evaluating Design Capabilities of AI Text-to-App Tools**](https://arxiv.org/abs/2508.20410) *Sam Jung, Agustin Garcinuno, Spencer Mateega.* Arxiv 2025.8.28.
 
-34. [**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**](https://arxiv.org/abs/2509.12159) *Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu.* Arxiv 2025.9.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/EfficientUICoder)](https://github.com/WebPAI/EfficientUICoder)
+34. [**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**](https://arxiv.org/abs/2509.12159) *Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu.* Arxiv 2025.9.15 (FSE 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/EfficientUICoder)](https://github.com/WebPAI/EfficientUICoder)
  
 35. [**WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning**](https://arxiv.org/pdf/2509.22644) *Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie Zhan, Hongsheng Li.* Arxiv 2025.9.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mnluzimu/WebGen-Agent)](https://github.com/mnluzimu/WebGen-Agent)
 
@@ -199,7 +199,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 59. [**AutoStructGUI: Bridging Design and Implementation of GUI through Structured Layout Generation**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Junquan Ren, Pengfei Xu* 2026.03.22 (IUI 2026).
 
-
+60. [**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang* 2026.03.27
 
 
 
@@ -268,7 +268,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 25. [**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**](https://arxiv.org/abs/2602.15758) Manav Nitin Kapadnis, Lawanya Baghel, Atharva Naik, Carolyn Rosé. Arxiv 2026.02.17.
 
-
+26. [**MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction.**](https://arxiv.org/abs/2510.17932) Zitian Tang, Xu Zhang, Jianbo Yuan, Yang Zou, Varad Gunjal, Songyao Jiang, Davide Modolo. Arxiv 2026.04.02. (CVPR 2026) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 3. Visually Rich Programming and Math
