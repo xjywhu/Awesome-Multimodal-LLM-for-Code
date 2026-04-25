@@ -201,6 +201,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 60. [**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang* 2026.03.27
 
+61. [**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**](https://arxiv.org/abs/2604.15309)*Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo* 2026.04.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/microsoft/MM-WebAgent)](https://github.com/microsoft/MM-WebAgent)
+
+62. [**WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models**](https://arxiv.org/abs/2604.18224)*Xinping Lei, Xinyu Che, Junqi Xiong, Chenchen Zhang, Yukai Huang, Chenyu Zhou, Haoyang Huang, Minghao Liu, Letian Zhu, Hongyi Ye, Jinhua Hao, Ken Deng, Zizheng Zhan, Han Li, Dailin Li, Yifan Yao, Ming Sun, Zhaoxiang Zhang, Jiaheng Liu* 2026.04.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/NJU-LINK/WebCompass)](https://github.com/NJU-LINK/WebCompass)
+
 
 
 
