@@ -209,6 +209,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
+
 ## 2. Scientific Plots Code Generation
 
 1. [**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots.**](https://arxiv.org/abs/2405.07990) *Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo
@@ -460,6 +461,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 3. [**GameUIAgent: An LLM-Powered Framework for Automated Game UI Design with Structured Intermediate Representation**](https://arxiv.org/abs/2603.14724) *Wei Zeng, Fengwei An, Zhen Liu, Jian Zhao.* Arxiv 2026.03.16.
 
 4. [**OpenGame: Open Agentic Coding for Games**](https://arxiv.org/abs/2604.18394) *Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue.* Arxiv 2026.04.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/leigest519/OpenGame)](https://github.com/leigest519/OpenGame)
+
+5. [**PlayCoder: Making LLM-Generated GUI Code Playable**](https://arxiv.org/abs/2604.19742) *Zhiyuan Peng, Wei Tao, Xin Yin, Chenhao Ying, Yuan Luo, Yiwen Guo.* Arxiv 2026.04.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/PlayCoder)](https://github.com/Tencent/PlayCoder)
 
 
 
