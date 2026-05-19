@@ -508,6 +508,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 13. [**Visual-ERM: Reward Modeling for Visual Equivalence**](https://arxiv.org/abs/2603.13224) *Ziyu Liu, Shengyuan Ding, Xinyu Fang, Xuanlang Dai, Penghui Yang, Jianze Liang, Jiaqi Wang, Kai Chen, Dahua Lin, Yuhang Zang.* Arxiv 2026.3.13. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/Visual-ERM)](https://github.com/InternLM/Visual-ERM)
 
+14. [**Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation**](https://arxiv.org/abs/2605.11307) *Ajay Vikram Periasami, Junlin Wang, Bhuwan Dhingra.* Arxiv 2026.5.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/image2code/vision2code)](https://github.com/image2code/vision2code)
+
+
 
 
 
