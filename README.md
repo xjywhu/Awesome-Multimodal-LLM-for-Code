@@ -44,7 +44,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [8. CAD code generation](#8-CAD-code-generation)
       - [9. Poster code generation](#9-Poster-code-generation)
       - [10. Multimodal document generation](#10-Multimodal-document-generation)
-      - [11. 3D point clouds code generation](#11-3D-point-code-generation)
+      - [11. 3D code generation](#11-3D-point-code-generation)
       - [12. Game](#12-game)
       - [13. Code for MLLM's Image Understanding](#13-code-for-MLLM's-image-understanding)
       - [14. General](#14-General)
