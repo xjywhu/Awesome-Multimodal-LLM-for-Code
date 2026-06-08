@@ -205,6 +205,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 62. [**WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models**](https://arxiv.org/abs/2604.18224)*Xinping Lei, Xinyu Che, Junqi Xiong, Chenchen Zhang, Yukai Huang, Chenyu Zhou, Haoyang Huang, Minghao Liu, Letian Zhu, Hongyi Ye, Jinhua Hao, Ken Deng, Zizheng Zhan, Han Li, Dailin Li, Yifan Yao, Ming Sun, Zhaoxiang Zhang, Jiaheng Liu* 2026.04.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/NJU-LINK/WebCompass)](https://github.com/NJU-LINK/WebCompass)
 
+63. [**Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages**](https://arxiv.org/abs/2606.00154)*Fan Wu, Lishuai Dong, Cuiyun Gao, Yujia Chen, Yiming Huang, Yang Xiao, Qing Liao* 2026.05.29.
+
+64. [**I-WebGenBench: Evaluating Interactivity in LLM-Generated Scientific Web Applications**](https://arxiv.org/abs/2606.00750)*Dasen Dai, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang* 2026.05.30.
 
 
 
@@ -445,11 +448,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 2. [**Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework**](https://arxiv.org/abs/2506.02454) *Zhaorui Yang, Bo Pan, Han Wang, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen.* Arxiv 2025.06.03.
 
 
-## 11. 3D point clouds code generation
+## 11. 3D code generation
 
 1. [**Real2Code: Reconstruct Articulated Objects via Code Generation**](https://arxiv.org/abs/2406.08474) *Zhao Mandi, Yijia Weng, Dominik Bauer, Shuran Song.* Arxiv 2024.06.12. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MandiZhao/real2code)](https://github.com/MandiZhao/real2code)
 
 2. [**MeshCoder: LLM-Powered Structured Mesh CodeGeneration from Point Clouds**](https://arxiv.org/abs/2508.14879v1) *Bingquan Dai, Li Ray Luo, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang.* Arxiv 2025.08.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternRobotics/MeshCoder)](https://github.com/InternRobotics/MeshCoder)
+
+3. [**WorldCoder-Bench: Benchmarking Physically Grounded 3D World Synthesis**](https://arxiv.org/abs/2606.01869) *Shuo Lu, Yinuo Xu, Kecheng Yu, Siru Jiang, Yongcan Yu, Yubin Wang, Haitao Yang, Yuxiang Zhang, Bin Wang, Ran He, Jian Liang.* Arxiv 2026.06.01.
+
 
 
 ## 12. Game
