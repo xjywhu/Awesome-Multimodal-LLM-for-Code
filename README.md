@@ -191,7 +191,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 55. [**1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World**](https://arxiv.org/abs/2602.18548)*Qiao Xu, Yipeng Yu, Chengxiao Feng, Xu Liu* Arxiv 2026.02.20.
 
-56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
+56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22. (KDD 2026) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
 
 57. [**𝐿𝑖𝑘𝑒𝑇ℎ𝑖𝑠! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**](https://arxiv.org/abs/2603.04245)*Jialiang Wei, Ali Ebrahimi Pourasad, Walid Maalej* Arxiv 2026.03.04.
 
@@ -209,8 +209,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 64. [**I-WebGenBench: Evaluating Interactivity in LLM-Generated Scientific Web Applications**](https://arxiv.org/abs/2606.00750)*Dasen Dai, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang* 2026.05.30.
 
-
-
+65. [**ProductWebGen: Benchmarking Multimodal Product Webpage Generation**](https://arxiv.org/abs/2604.18224)*Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, Quan Chen, Peng Jiang, Kai Yu, Zhijie Deng* 2026.05.31.（KDD 2026） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/SJTU-DENG-Lab/ProductWebGen)](https://github.com/SJTU-DENG-Lab/ProductWebGen)
 
 
 ## 2. Scientific Plots Code Generation
@@ -516,12 +515,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 14. [**Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation**](https://arxiv.org/abs/2605.11307) *Ajay Vikram Periasami, Junlin Wang, Bhuwan Dhingra.* Arxiv 2026.5.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/image2code/vision2code)](https://github.com/image2code/vision2code)
 
-
-
-
-
-
-
+15. [**Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts**](https://arxiv.org/abs/2606.10334)*Haoyu Dong* 2026.06.09.
 
 
 # 🔥Contributing
