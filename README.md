@@ -49,6 +49,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [13. Code for MLLM's Image Understanding](#13-code-for-MLLM's-image-understanding)
       - [14. General](#14-General)
   * [🔥Contributing](#contributing)
+  * [🔥Citation](#citation)
 
 ---
 
@@ -525,6 +526,16 @@ This is an active repository and your contributions are always welcome! Before y
 - The paper should be inserted in the correct position in chronological order (publication/arxiv release time).
 - The link to paper should be the arxiv page, not the pdf page if this is a paper posted on arxiv.
 - If the paper is accpeted, please use the correct publication venue instead of arxiv.
+
+# 🔥Citation
+```
+@article{zhao2026beyond,
+  title={Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence},
+  author={Zhao, Xuanle and Sun, Qiushi and Xiao, Jingyu and Liu, Xuexin and Yang, Haoyue and Chen, Qiaosheng and Luo, Xianzhen and Huang, Jing and Zhong, Yufeng and Chen, Lei and others},
+  journal={arXiv preprint arXiv:2606.15932},
+  year={2026}
+}
+```
 
 # 🌟 Star History
 
