@@ -212,6 +212,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 65. [**ProductWebGen: Benchmarking Multimodal Product Webpage Generation**](https://arxiv.org/abs/2604.18224)*Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, Quan Chen, Peng Jiang, Kai Yu, Zhijie Deng* 2026.05.31.（KDD 2026） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/SJTU-DENG-Lab/ProductWebGen)](https://github.com/SJTU-DENG-Lab/ProductWebGen)
 
+66. [**MulFCoder: Framework-conditioned Multi-agent for MLLM-based Multi-framework Front-end Code Generation**](https://openreview.net/forum?id=xUW3aH4ie3)*Jie Wu, Haoran Ma, Shisong Tang, Yulin Xu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+
+67. [**Deterministic Component Mining for Multi-Framework UI2Code Generation**](https://openreview.net/forum?id=IuGOrMmYCK&noteId=qYFhfQkyTJ)*Zixiong Yang, Linxiao Li, Jiaye Lin, Binrui Wu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+
 
 ## 2. Scientific Plots Code Generation
 
