@@ -162,7 +162,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 41. [**WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation**](https://arxiv.org/abs/2510.15306) *Kuang-Da Wang, Zhao Wang, Yotaro Shimose, Wei-Yao Wang, Shingo Takamatsu.* Arxiv 2025.10.17.
 
 
-42. [**UIOrchestra: Generating High-Fidelity Code from UI Designs with a Multi-agent System**](https://aclanthology.org/2025.findings-emnlp.150/) *huhuai Yue, Jiajun Chai, Yufei Zhang, Zixiang Ding, Xihao Liang, Peixin Wang, Shihai Chen, Wang Yixuan, Guojun Yin, Wei Lin.* Arxiv 2025.11.08.
+42. [**UIOrchestra: Generating High-Fidelity Code from UI Designs with a Multi-agent System**](https://aclanthology.org/2025.findings-emnlp.150/) *huhuai Yue, Jiajun Chai, Yufei Zhang, Zixiang Ding, Xihao Liang, Peixin Wang, Shihai Chen, Wang Yixuan, Guojun Yin, Wei Lin.* Arxiv 2025.11.08 (EMNLP Findings 2025).
 
 
 43. [**WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation**](https://arxiv.org/abs/2511.06251)*Mingde Xu, Zhen Yang, Wenyi Hong, Lihang Pan, Xinyue Fan, Yan Wang, Xiaotao Gu, Bin Xu, Jie Tang* Arxiv 2025.11.09. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zheny2751-dotcom/WebVIA)](https://github.com/zheny2751-dotcom/WebVIA)
@@ -212,9 +212,18 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 65. [**ProductWebGen: Benchmarking Multimodal Product Webpage Generation**](https://arxiv.org/abs/2604.18224)*Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, Quan Chen, Peng Jiang, Kai Yu, Zhijie Deng* 2026.05.31.（KDD 2026） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/SJTU-DENG-Lab/ProductWebGen)](https://github.com/SJTU-DENG-Lab/ProductWebGen)
 
-66. [**MulFCoder: Framework-conditioned Multi-agent for MLLM-based Multi-framework Front-end Code Generation**](https://openreview.net/forum?id=xUW3aH4ie3)*Jie Wu, Haoran Ma, Shisong Tang, Yulin Xu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+66. [**Video2Code: Generating Interactive Webpages from UI Videos via Action-Aware Revisit**](https://arxiv.org/abs/2606.20711)*Mingde Xu, Zhen Yang, Yan Wang, Yu Wang, Xijun Liu, Zijun Dou, Wenyi Hong, Xiaotao Gu, Bin Xu, Jie Tang. 2026.06.16.
 
-67. [**Deterministic Component Mining for Multi-Framework UI2Code Generation**](https://openreview.net/forum?id=IuGOrMmYCK&noteId=qYFhfQkyTJ)*Zixiong Yang, Linxiao Li, Jiaye Lin, Binrui Wu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+
+68. [**MulFCoder: Framework-conditioned Multi-agent for MLLM-based Multi-framework Front-end Code Generation**](https://openreview.net/forum?id=xUW3aH4ie3)*Jie Wu, Haoran Ma, Shisong Tang, Yulin Xu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+
+69. [**Deterministic Component Mining for Multi-Framework UI2Code Generation**](https://openreview.net/forum?id=IuGOrMmYCK&noteId=qYFhfQkyTJ)*Zixiong Yang, Linxiao Li, Jiaye Lin, Binrui Wu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
+
+70. [**Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation**](https://arxiv.org/abs/2606.28593)*Anya Ji, Abhijith Varma Mudunuri, David M. Chan, Alane Suhr* 2026.06.26.
+
+71. [**UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation**](https://arxiv.org/abs/2604.18224)*Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen* 2026.07.07. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/chenmancm169/UI2App)](https://github.com/chenmancm169/UI2App)
+
+
 
 
 ## 2. Scientific Plots Code Generation
