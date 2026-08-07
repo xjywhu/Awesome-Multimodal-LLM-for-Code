@@ -223,6 +223,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 71. [**UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation**](https://arxiv.org/abs/2604.18224)*Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen* 2026.07.07. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/chenmancm169/UI2App)](https://github.com/chenmancm169/UI2App)
 
+72. [**LiveEvalBench: Toward Open-World Evaluation for Web Generation**](https://arxiv.org/abs/2608.03689)*Yiyao Wang, Zhen Wen, Yinghao Tang, Yixiao Fu, Lin Yuan, Xiaolau Zhang, Jun Zhou, Wei Chen* 2026.08.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/wyysteelhead/LiveEvalBench)](https://github.com/wyysteelhead/LiveEvalBench)
+
 
 
 
