@@ -200,7 +200,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 59. [**AutoStructGUI: Bridging Design and Implementation of GUI through Structured Layout Generation**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Junquan Ren, Pengfei Xu* 2026.03.22 (IUI 2026).
 
-60. [**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang* 2026.03.27
+60. [**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang* 2026.03.27 (ICML 2026)
 
 61. [**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**](https://arxiv.org/abs/2604.15309)*Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo* 2026.04.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/microsoft/MM-WebAgent)](https://github.com/microsoft/MM-WebAgent)
 
@@ -212,7 +212,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 65. [**ProductWebGen: Benchmarking Multimodal Product Webpage Generation**](https://arxiv.org/abs/2604.18224)*Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, Quan Chen, Peng Jiang, Kai Yu, Zhijie Deng* 2026.05.31.（KDD 2026） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/SJTU-DENG-Lab/ProductWebGen)](https://github.com/SJTU-DENG-Lab/ProductWebGen)
 
-66. [**Video2Code: Generating Interactive Webpages from UI Videos via Action-Aware Revisit**](https://arxiv.org/abs/2606.20711)*Mingde Xu, Zhen Yang, Yan Wang, Yu Wang, Xijun Liu, Zijun Dou, Wenyi Hong, Xiaotao Gu, Bin Xu, Jie Tang. 2026.06.16.
+66. [**Video2Code: Generating Interactive Webpages from UI Videos via Action-Aware Revisit**](https://arxiv.org/abs/2606.20711)*Mingde Xu, Zhen Yang, Yan Wang, Yu Wang, Xijun Liu, Zijun Dou, Wenyi Hong, Xiaotao Gu, Bin Xu, Jie Tang. 2026.06.16 (EMNLP 2026 Main).
 
 
 68. [**MulFCoder: Framework-conditioned Multi-agent for MLLM-based Multi-framework Front-end Code Generation**](https://openreview.net/forum?id=xUW3aH4ie3)*Jie Wu, Haoran Ma, Shisong Tang, Yulin Xu, Xiaoyu Kang, Jiechao Gao* 2026.06.26.（ICML 2026)
@@ -224,6 +224,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 71. [**UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation**](https://arxiv.org/abs/2604.18224)*Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen* 2026.07.07. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/chenmancm169/UI2App)](https://github.com/chenmancm169/UI2App)
 
 72. [**LiveEvalBench: Toward Open-World Evaluation for Web Generation**](https://arxiv.org/abs/2608.03689)*Yiyao Wang, Zhen Wen, Yinghao Tang, Yixiao Fu, Lin Yuan, Xiaolau Zhang, Jun Zhou, Wei Chen* 2026.08.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/wyysteelhead/LiveEvalBench)](https://github.com/wyysteelhead/LiveEvalBench)
+
+73. [**WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader**](https://arxiv.org/abs/2608.06474)*Boshui Chen, Huiping Liu, Shaolei Zhang* 2026.08.06. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/boneykingofnone/WebGrader)](https://github.com/boneykingofnone/WebGrader)
+
+74. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -422,6 +426,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 4. [**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**](https://www.arxiv.org/abs/2506.16136) *Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen .* Arxiv 2025.6.19 (ASE 2025).
 
 5. [**SVRepair: Structured Visual Reasoning for Automated Program Repair**](https://arxiv.org/abs/2602.06090) *Xiaoxuan Tang, Jincheng Wang, Liwei Luo, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li.* Arxiv 2026.02.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-SVR)](https://github.com/codefuse-ai/CodeFuse-SVR)
+
+6. [**MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization**](https://arxiv.org/abs/2607.15205) *Shaoxiong Zhan, Shi Hu, Boyu Feng, Hai Lin, Andrew Gong, Zhengda Zhou, Jiaying Zhou, Yunyun Hou, Hao Su, Hai-Tao Zheng.* Arxiv 2026.07.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Jasaxion/MM-IssueLoc-Bench)](https://github.com/Jasaxion/MM-IssueLoc-Bench)
 
 
 
