@@ -223,11 +223,13 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 71. [**UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation**](https://arxiv.org/abs/2604.18224)*Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen* 2026.07.07. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/chenmancm169/UI2App)](https://github.com/chenmancm169/UI2App)
 
-72. [**LiveEvalBench: Toward Open-World Evaluation for Web Generation**](https://arxiv.org/abs/2608.03689)*Yiyao Wang, Zhen Wen, Yinghao Tang, Yixiao Fu, Lin Yuan, Xiaolau Zhang, Jun Zhou, Wei Chen* 2026.08.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/wyysteelhead/LiveEvalBench)](https://github.com/wyysteelhead/LiveEvalBench)
+72. [**MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification**](https://arxiv.org/abs/2608.03474)*Qiming Li, Shujie Hu, Haohan Liu, Xiaocheng Feng, Songxiang Liu, Guanglu Wan* 2026.08.04.
 
-73. [**WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader**](https://arxiv.org/abs/2608.06474)*Boshui Chen, Huiping Liu, Shaolei Zhang* 2026.08.06. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/boneykingofnone/WebGrader)](https://github.com/boneykingofnone/WebGrader)
+73. [**LiveEvalBench: Toward Open-World Evaluation for Web Generation**](https://arxiv.org/abs/2608.03689)*Yiyao Wang, Zhen Wen, Yinghao Tang, Yixiao Fu, Lin Yuan, Xiaolau Zhang, Jun Zhou, Wei Chen* 2026.08.04. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/wyysteelhead/LiveEvalBench)](https://github.com/wyysteelhead/LiveEvalBench)
 
-74. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+74. [**WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader**](https://arxiv.org/abs/2608.06474)*Boshui Chen, Huiping Liu, Shaolei Zhang* 2026.08.06. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/boneykingofnone/WebGrader)](https://github.com/boneykingofnone/WebGrader)
+
+75. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
