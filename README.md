@@ -234,6 +234,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
+76. [**WebWorld: The Browser as a World Model for Self-Improving Web Code**](https://arxiv.org/abs/2608.30530) *Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou.* 2026.08.31 (EMNLP 2026 Main).
+
 ## 2. Scientific Plots Code Generation
 
 1. [**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots.**](https://arxiv.org/abs/2405.07990) *Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo
