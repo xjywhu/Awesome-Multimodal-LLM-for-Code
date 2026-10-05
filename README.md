@@ -231,10 +231,10 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 75. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-
 76. [**WebWorld: The Browser as a World Model for Self-Improving Web Code**](https://arxiv.org/abs/2608.30530) *Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou.* 2026.08.31 (EMNLP 2026 Main).
+
+77. [**Enabling Creative Exploration for Vibe Design Agents**](https://arxiv.org/abs/2609.15078) *Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard.* 2026.09.25.
+
 
 ## 2. Scientific Plots Code Generation
 
