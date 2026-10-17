@@ -235,6 +235,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 77. [**Enabling Creative Exploration for Vibe Design Agents**](https://arxiv.org/abs/2609.15078) *Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard.* 2026.09.25.
 
+78. [**Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation**](https://arxiv.org/abs/2607.28645) *Fan Wu, Cuiyun Gao, Yiming Huang, Yang Xiao, Yujia Chen, Qing Liao.* 2026.08.21. (EMNLP 2026 Main). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/stars/anoa12159-hue/mobileforge_eval)](https://github.com/anoa12159-hue/mobileforge_eval/)
 
 ## 2. Scientific Plots Code Generation
 
