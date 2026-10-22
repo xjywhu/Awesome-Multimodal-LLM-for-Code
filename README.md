@@ -229,13 +229,20 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 74. [**WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader**](https://arxiv.org/abs/2608.06474)*Boshui Chen, Huiping Liu, Shaolei Zhang* 2026.08.06. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/boneykingofnone/WebGrader)](https://github.com/boneykingofnone/WebGrader)
 
-75. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+75. [**Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation**](https://arxiv.org/abs/2607.28645) *Fan Wu, Cuiyun Gao, Yiming Huang, Yang Xiao, Yujia Chen, Qing Liao.* 2026.08.21. (EMNLP 2026 Main). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/stars/anoa12159-hue/mobileforge_eval)](https://github.com/anoa12159-hue/mobileforge_eval/)
 
-76. [**WebWorld: The Browser as a World Model for Self-Improving Web Code**](https://arxiv.org/abs/2608.30530) *Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou.* 2026.08.31 (EMNLP 2026 Main).
 
-77. [**Enabling Creative Exploration for Vibe Design Agents**](https://arxiv.org/abs/2609.15078) *Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard.* 2026.09.25.
+76. [**Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation**](https://arxiv.org/abs/2608.06474)*Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin Lin, Zhendong Wang, Linjie Li, Chenxi Liu, Ruibo Chen, Ramani Duraiswami, Heng Huang, Lijuan Wang* 2026.08.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-78. [**Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation**](https://arxiv.org/abs/2607.28645) *Fan Wu, Cuiyun Gao, Yiming Huang, Yang Xiao, Yujia Chen, Qing Liao.* 2026.08.21. (EMNLP 2026 Main). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/stars/anoa12159-hue/mobileforge_eval)](https://github.com/anoa12159-hue/mobileforge_eval/)
+77. [**WebWorld: The Browser as a World Model for Self-Improving Web Code**](https://arxiv.org/abs/2608.30530) *Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou.* 2026.08.31 (EMNLP 2026 Main).
+
+78. [**Enabling Creative Exploration for Vibe Design Agents**](https://arxiv.org/abs/2609.15078) *Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard.* 2026.09.25.
+
+79. [**State-Aware Generation of Deployable Websites from Visual Prototypes and Requirements**](https://arxiv.org/abs/2610.17861) *Ruwei Pan, Junlei Shen, Linhao Wu, Zixiong Yang, Qisheng Zhang, Yifan Li, Tianyu Ma, Yakun Zhang, Lu Zhang, Hongyu Zhang* 2026.10.13.
+
+80. [**WebCoder: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning**](https://arxiv.org/abs/2610.23104) *Zijun Dou*, Zhen Yang*, Xijun Liu, Dongzhuoran Zhou, Aohan Zeng, Jie Tang.* 2026.10.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/stars/douzj-llm/WebCoder)](https://github.com/douzj-llm/WebCoder)
+
+81. [**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**](https://arxiv.org/abs/2610.28610) *Jingyu Xiao, Dasen Dai, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Hongyu Zhang, Michael R. Lyu* 2026.10.20.
 
 ## 2. Scientific Plots Code Generation
 
@@ -547,6 +554,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 15. [**Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation**](https://arxiv.org/abs/2605.11307) *Ajay Vikram Periasami, Junlin Wang, Bhuwan Dhingra.* Arxiv 2026.5.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/image2code/vision2code)](https://github.com/image2code/vision2code)
 
 16. [**Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts**](https://arxiv.org/abs/2606.10334)*Haoyu Dong* 2026.06.09.
+
+17. [**PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis**](https://arxiv.org/abs/2610.20538) *Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Zhangyue Yin, Zixian Huang, Hanxu Hu, Jing Xiong, Fangzhi Xu, Haochen Tan, Haoli Bai, Lifeng Shang, Xiaoguang Li, Ben Kao, Qipeng Guo, Lingpeng Kong, Jiahui Gao.* Arxiv 2026.10.14. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/QiushiSun/PrismaCoder)](https://github.com/QiushiSun/PrismaCoder)
+
 
 
 # 🔥Contributing
