@@ -424,6 +424,9 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 14. [**SlideTailor: Personalized Presentation Slide Generation for Scientific Papers**](https://arxiv.org/abs/2512.20292) *Wenzheng Zeng, Mingyu Ouyang, Langyuan Cui, Hwee Tou Ng
 .* Arxiv 2025.12.23. (AAAI 2026) [![GitHub Repo stars](https://img.shields.io/github/stars/nusnlp/SlideTailor)](https://github.com/nusnlp/SlideTailor)
 
+15. [**InfoEdit: Probing Global Layout Reasoning in Infographic Editing**](https://arxiv.org/abs/2609.33286) *Cheng Yang, Chufan Shi, Huijuan Wang, Bo Shui, Yaokang Wu, Muzi Tao, Yibo Yan, Xuezhe Ma, Taylor Berg-Kirkpatrick
+.* Arxiv 2026.09.27. (EMNLP 2026) [![GitHub Repo stars](https://img.shields.io/github/stars/InfoEdit/InfoEdit)](https://github.com/InfoEdit/InfoEdit)
+
 
 
 
