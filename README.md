@@ -244,6 +244,16 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 81. [**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**](https://arxiv.org/abs/2610.28610) *Jingyu Xiao, Dasen Dai, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Hongyu Zhang, Michael R. Lyu* 2026.10.20.
 
+82. [**DeltaUI: Framework-Normalized UI State Transition Modeling for Multi-Task Front-End Engineering**](https://dl.acm.org/doi/abs/10.1145/3767308.3835449) *Jiaye Lin, Zhongxu Guan, Huanyao Zhang, Zonghao Ying, Yuehan Zhang, Bohan Zeng, Jiepeng Zhou, Peilin Zhao, Wentao Zhang.* ACM MM 2026.
+
+83. [**DynoGen: An Execution-Grounded Benchmark for Dynamic Front-End Code Generation**](https://dl.acm.org/doi/10.1145/3767308.3834912) *Aofan Liu, Jiaxin Liu, Shiyuan Song, Yiyan Qi.* ACM MM 2026 (Oral).
+
+84. [**Toward Executable Multi-framework Front-end Code Generation with Self-Correction**](https://arxiv.org/abs/2611.01383) *Linxiao Li, Haoran Ma, Chenyue Wang, Jiaye Lin, Haochen Sui, Jiechao Gao.* Arxiv 2026.11.01. (NeurIPS 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/leo-lilinxiao/MESCoder)](https://github.com/leo-lilinxiao/MESCoder)
+
+85. [**Phase-wise MLLM Tuning for Multi-framework WebUI Code Generation**](https://arxiv.org/abs/2611.01692) *Haoran Ma, Linxiao Li, Chenyue Wang, Haochen Sui, Jiechao Gao.* Arxiv 2026.11.01. (NeurIPS 2026).
+
+86. [**Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments**](https://arxiv.org/abs/2611.02928) *Xusen Hei, Jiali Chen, Jinyu Yang, Yi Cai.* Arxiv 2026.11.02. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/black1948/lab2sim)](https://github.com/black1948/lab2sim)
+
 ## 2. Scientific Plots Code Generation
 
 1. [**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots.**](https://arxiv.org/abs/2405.07990) *Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo
@@ -430,6 +440,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
+16. [**Slide2PPT: Native PowerPoint Reconstruction with Localization-Guided Refinement**](https://arxiv.org/abs/2611.25708) *Baoliang Chen, Xinlong Bu, Lingyu Zhu, Xiangjie Sui.* Arxiv 2026.11.19.
+
 ## 6. Program Repair
 
 1. [**SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?**](https://arxiv.org/abs/2410.03859) *John Yang, Carlos E. Jimenez, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik R. Narasimhan, Diyi Yang, Sida I. Wang, Ofir Press.* ICLR 2025.
@@ -446,6 +458,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 
 
+
+7. [**CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering**](https://arxiv.org/abs/2609.32600) *Prince Zizhuang Wang, Chenhao Liang, Zelong Xu, Aojie Yuan, Xiaolin Zhou, Haiyue Zhang, Yue Zhao, Xiyang Hu, Shuli Jiang.* Arxiv 2026.09.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kingofspace0wzz/cua-swe)](https://github.com/kingofspace0wzz/cua-swe)
+
+8. [**SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?**](https://arxiv.org/abs/2610.14096) *Yang Yao, Haozhe Chen, Bingyi Kang, Karthik R Narasimhan, Zhuang Liu.* Arxiv 2026.10.08. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zlab-princeton/sweeper-bench)](https://github.com/zlab-princeton/sweeper-bench)
+
+9. [**Render Structure Uncertainty for HTML Repair in MLLM-based UI-to-Code Generation**](https://dash.harvard.edu/entities/publication/d21284a4-94ab-4ddd-a95d-65f4efdb7337) *Haoran Ma, Jiechao Gao, Shisong Tang, Bing Han, Jifeng Hu, Hechang Chen.* NeurIPS 2026. [Code](https://anonymous.4open.science/r/Uncertainty-F61D/)
+
+10. [**ScreenProof: Where Is This Screen Wrong? Finding UI Faults Without a Reference**](https://arxiv.org/abs/2611.10234) *Huiming Sun, Yue Li, Kangning Yang, Ruineng Li, Jie Cai, Lan Fu, Yunwan Fu, Jinlong Li, Jinglin Shen.* Arxiv 2026.11.06.
 
 ## 7. UML and workflow code generation
 
